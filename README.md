@@ -1,5 +1,4 @@
 # hello-world
 This is my first repository.
 
-
-I'm an aspiring developer and I hope to accomplish great things someday.
+This project is for testing out how to use Github.
